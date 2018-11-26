@@ -5,3 +5,7 @@ Using neural networks to generate music in the style of Twenty One Pilots
 * Generate lyrics
 * Generate instrumentals
 * Generate cover art
+
+## Libraries
+* Keras (TensorFlow backend)
+* NumPy
